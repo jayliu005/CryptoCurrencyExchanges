@@ -3,10 +3,11 @@
 ### This app will display android concept as follow  
 * 100% Kotlin language  
 * Android MVVM architecture (ViewModel/Repository)  
-* Retrofit + Coroutine(Flow) to archive HTTP connection  
+* Retrofit + Coroutine(Flow) to achieve HTTP connection  
 * Navigation Component to handle page direction  
 * MediatorLiveData to combine multiple data sources  
 * Websocket to receive real-time data
+* Hilt to achieve dependency injection 
 
 ### UI component
 * A Single-Activity App with BottomNavigationView at the bottom that has 4 tabs
