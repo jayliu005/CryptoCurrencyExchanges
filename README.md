@@ -16,3 +16,5 @@
 * A settings entrance button at top right of last page and click it to go to Settings page
 * The Settings page with no BottomNavigationView at the bottom of the screen
 
+![](https://github.com/jayliu005/CryptoCurrencyExchanges/blob/master/app/src/main/assets/CryptoCurrencyExchange_snapshot.png)
+
