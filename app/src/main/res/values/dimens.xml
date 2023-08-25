@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- BottomNavigationView -->
+    <!-- Icon的margin top-->
+    <dimen name="design_bottom_navigation_margin">12dp</dimen>
+    <!-- Icon的size-->
+    <dimen name="design_bottom_navigation_icon_size">32dp</dimen>
+    <!-- Icon的size-->
+    <dimen name="design_bottom_navigation_height">66dp</dimen>
+
+</resources>
