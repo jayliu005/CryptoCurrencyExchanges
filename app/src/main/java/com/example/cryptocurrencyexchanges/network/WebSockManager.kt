@@ -15,7 +15,7 @@ import java.net.URISyntaxException
 
 object WebSockManager {
 
-    const val TAG = "WebSockManager"
+    const val TAG = "WebSockManager:%s"
     private var client: CryptoWebSocketClient? = null
     var marketList: List<MarketResponse.MarketData>? = null
     private val _updateMarketPrice = MutableLiveData<List<MarketResponse.MarketData>>()
